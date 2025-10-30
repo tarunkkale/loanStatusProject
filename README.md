@@ -1,4 +1,5 @@
 🏦 Loan Eligibility Analysis Project
+
 📘 Project Overview
 
 This project analyzes the factors influencing loan approval decisions such as applicant income, education, marital status, employment type, property area, and credit history.
